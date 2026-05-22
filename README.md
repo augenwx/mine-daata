@@ -4,6 +4,12 @@ Este sistema interactivo e inteligente está diseñado para analizar, segmentar 
 
 El proyecto refactoriza y lleva a producción la lógica desarrollada en el notebook `prediccion_mat_por_unificado .ipynb` a través de una aplicación web moderna e intuitiva con **Streamlit**.
 
+## 📸 Capturas de Pantalla del Sistema
+
+A continuación se muestra una vista general de las diferentes secciones del sistema interactivo (dashboard, segmentación, métricas del modelo y el predictor en tiempo real simplificado):
+
+![Capturas del Sistema](src/Diseño%20sin%20título.png)
+
 ---
 
 ## 📋 ¿De qué trata el sistema?
