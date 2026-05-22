@@ -1,4 +1,4 @@
-#  Sistema de Predicción de Rendimiento Académico (Matemáticas y Portugués)
+#   Sistema de Predicción de Rendimiento Académico (Matemáticas y Portugués)
 
 Este sistema interactivo e inteligente está diseñado para analizar, segmentar y predecir el éxito académico de los estudiantes en las materias de **Matemáticas** y **Portugués**, basándose en minería de datos y modelos predictivos de Machine Learning. 
 
