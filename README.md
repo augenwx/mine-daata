@@ -1,10 +1,10 @@
-# 🎓 Sistema de Predicción de Rendimiento Académico (Matemáticas y Portugués)
+#  Sistema de Predicción de Rendimiento Académico (Matemáticas y Portugués)
 
 Este sistema interactivo e inteligente está diseñado para analizar, segmentar y predecir el éxito académico de los estudiantes en las materias de **Matemáticas** y **Portugués**, basándose en minería de datos y modelos predictivos de Machine Learning. 
 
 El proyecto refactoriza y lleva a producción la lógica desarrollada en el notebook `prediccion_mat_por_unificado .ipynb` a través de una aplicación web moderna e intuitiva con **Streamlit**.
 
-## 📸 Capturas de Pantalla del Sistema
+## Capturas de Pantalla del Sistema
 
 A continuación se muestra una vista general de las diferentes secciones del sistema interactivo (dashboard, segmentación, métricas del modelo y el predictor en tiempo real simplificado):
 
@@ -12,7 +12,7 @@ A continuación se muestra una vista general de las diferentes secciones del sis
 
 ---
 
-## 📋 ¿De qué trata el sistema?
+##  ¿De qué trata el sistema?
 
 El sistema procesa dos conjuntos de datos escolares (`student-mat.csv` y `student-por.csv`) que capturan el perfil sociodemográfico, familiar, de salud y los hábitos cotidianos de los alumnos. El pipeline realiza el análisis completo a través de cuatro grandes áreas:
 
@@ -40,7 +40,7 @@ El sistema procesa dos conjuntos de datos escolares (`student-mat.csv` y `studen
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```text
 ├── student-mat.csv      # Dataset original de Matemáticas (delimitador ;)
@@ -56,7 +56,7 @@ El sistema procesa dos conjuntos de datos escolares (`student-mat.csv` y `studen
 
 ---
 
-## 🚀 ¿Cómo se usa?
+##  ¿Cómo se usa?
 
 Sigue estos sencillos pasos para instalar y ejecutar el sistema en tu máquina local:
 
